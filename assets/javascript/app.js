@@ -39,6 +39,7 @@ var questionsList = [
 // testing
 console.log(questionsList[0].answerList[1]);
 console.log(questionsList[0].question);
+
 // on click funtion
 
 $(".startBtn").on("click", function () {
@@ -210,3 +211,4 @@ function keepingScore() {
         incorrectAnswers++;
     }
 }
+

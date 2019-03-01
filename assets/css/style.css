@@ -4,4 +4,18 @@
     background-color: lightcoral;
     text-emphasis: bold;
     color:blue;
+    border-color: black; 
+    text-size-adjust: 20px;
+
+}
+.card-title{
+    color: black;
+    text-decoration: inherit;
+}
+.startBtn{
+    width: 80px;
+}
+#finalMessage{
+    text-emphasis: bold;
+    color: green;
 }
