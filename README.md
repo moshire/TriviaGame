@@ -35,7 +35,7 @@ This is my second javascript application so understanding the idea of creating e
 * Last, check how many questions you got right, wrong or answered!
 
 ## Gif
-![Wisom Threads App Gif](/public/images/gif.gif)
+![Trivia Game App Gif](assets/images/app.gif)
 
 
 ## Live Demo
