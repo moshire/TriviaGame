@@ -47,5 +47,3 @@ All contributions and suggestions are welcome! For direct contributions, please 
 
 ## Contact
 * shire625@gmail.com
-* emcrawford1@gmail.com
-* davis.kyra@rocketmail.com
