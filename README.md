@@ -39,7 +39,7 @@ This is my second javascript application so understanding the idea of creating e
 
 
 ## Live Demo
-[Click here to experience the Wisom Threads App!](https://moshire.github.io/TriviaGame/)
+[Click here to experience the Trivia Game App!](https://moshire.github.io/TriviaGame/)
 
 
 ## Contributing Guidelines
